@@ -25,3 +25,21 @@ $ sudo apt-get update
 
 $ sudo apt-get install python3.6
 
+sudo apt install python3-pip
+
+If you have Python 3 installed (which is recommended):
+
+python3 -m pip install --upgrade pip
+python3 -m pip install jupyter
+
+If you have Python 2 installed:
+
+python -m pip install --upgrade pip
+python -m pip install jupyter
+
+sudo apt-get install cmake
+
+
+sudo pip3 install dlib
+
+pip3 install scikit-image --user
