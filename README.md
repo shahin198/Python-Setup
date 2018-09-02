@@ -43,3 +43,8 @@ sudo apt-get install cmake
 sudo pip3 install dlib
 
 pip3 install scikit-image --user
+
+# jupyter notebook
+```
+sudo apt install jupyter-core
+```
