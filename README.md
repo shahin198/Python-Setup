@@ -46,5 +46,5 @@ pip3 install scikit-image --user
 
 # jupyter notebook
 ```
-sudo apt install jupyter-core
+sudo apt install jupyter
 ```
